@@ -1,0 +1,7 @@
+__pycache__
+.venv
+build
+null
+*.spec
+*.settings.json
+.gitignore
